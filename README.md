@@ -238,9 +238,6 @@ Decouples training from inference. The FastAPI server reads pre-computed results
 
 ---
 
-
----
-
 ##  License
 
 MIT License — free to use and modify.
