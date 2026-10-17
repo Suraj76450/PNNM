@@ -238,11 +238,6 @@ Decouples training from inference. The FastAPI server reads pre-computed results
 
 ---
 
-##  Author
-
-**Suraj Kumar** — AI Engineering Intern Applicant
-Tredence Analytics — 2025 Cohort
-GitHub: [Suraj76450](https://github.com/Suraj76450)
 
 ---
 
